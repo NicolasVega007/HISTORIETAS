@@ -1,0 +1,129 @@
+body {
+
+    background-image: url("/img/fondo\ de\ pagina.jpeg");
+    background-size:cover;
+    background-repeat: round;
+}
+  
+.contenedor{ 
+  display: flex;
+  margin-right: 30px;
+}
+
+.img1 {
+ 
+  height: 200px;
+  margin-right: 30px;
+
+}
+
+.letra1{
+
+  position: absolute;
+  margin: center;
+  top: 195%;
+  transform: translate(50%);
+
+
+}
+
+.letra2{
+
+  position: absolute;
+  margin: center;
+  top: 156%;
+  transform:translate(60%);
+ 
+  
+
+
+}
+
+.letra3{
+  position: absolute;
+  margin:5%;
+  margin-top: 13%;
+  right: 72%;
+  
+
+  
+  
+}
+
+.letra4{
+  position: absolute;
+  margin: -9%;
+  margin-top: 13%;
+  right: 72%;
+  
+
+  
+  
+}
+
+.letra5{
+  position: absolute;
+  margin: -23%;
+  margin-top: 13%;
+  right: 72%;
+  
+
+  
+  
+}
+
+.letra6{
+  position: absolute;
+  margin:-37%;
+  margin-top: 13%;
+  right: 72%;
+  
+
+  
+  
+}
+
+.letras7{
+  position: absolute;
+  margin:-51%;
+  margin-top: 13%;
+  right: 72%;
+
+}
+
+.letras8{
+  position: absolute;
+  margin:-65%;
+  margin-top: 13%;
+  right: 72%;
+
+}
+
+.letras9{
+  position: absolute;
+  margin:-79%;
+  margin-top: 13%;
+  right: 72%;
+
+}
+
+.letras10{
+  position: absolute;
+  margin:-93%;
+  margin-top: 13%;
+  right: 72%;
+
+}
+i
+
+
+
+
+
+  
+  
+
+
+
+
+
